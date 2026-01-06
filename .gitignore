@@ -4,3 +4,5 @@ venv_2026/
 venv_MAC16
 __pycache__
 *.code-workspace
+id2_ed25519
+id2_ed25519.pub
