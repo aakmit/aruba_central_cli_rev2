@@ -1,0 +1,65 @@
+central_info:
+  username: "vorawut.k@arubaseath.com"
+  password: "xxx"
+  client_id: "8E4mfUwTgiFFLlszPyek6Zpp8X1ZhkEJ"
+  client_secret: "QHJtMRYZ5mHdbC2wlWOb9WnX5GgDBWqo"
+  customer_id: "2fc10804142811ed8acd9a1370d6a925"
+  base_url: "https://internal-apigw.central.arubanetworks.com"
+aruba_cic:
+  username: "vorawut.k@arubaseath.com"
+  password: "xxx"
+  client_id: "o8rVp9zP1lJkOPP4H8hTVCew1PowpaMl"
+  client_secret: "Dkh0zdxMMaz1iARuFgVXASastpIawRXC"
+  customer_id: "f5160fe16d064d55b919a2d6eb72755f"
+  base_url: "https://internal-apigw.central.arubanetworks.com"
+seath_partnerlab_msp:
+  username: "vorawut.k@arubaseath.com"
+  password: "xxx"
+  client_id: "EmRDTL3gwMTVZXA8689kynHXN6SPHxOY"
+  client_secret: "sj1LaJQJd0Y3IGurlnPPferiEqTCr80R"
+  customer_id: "588d7f6a6cd84ebc85f1036ee9b99ebe"
+  base_url: "https://internal-apigw.central.arubanetworks.com"
+seath_partner_lab:
+  username: "vorawut.k@arubaseath.com"
+  password: "xxx"
+  client_id: "TvotnPYraQ8ue2NMOqhG6jvyCzyN9OFw"
+  client_secret: "MA8naU5CFtrzqXW8x1P9LAAz3wMWkgob"
+  customer_id: "164cbfa2547511edba1aae68c58405f1"
+  base_url: "https://internal-apigw.central.arubanetworks.com"
+vorawut_sg:
+  username: "vorawut.k@arubaseath.com"
+  password: "xxx"
+  client_id: "FF525y5YxtcnKOEdZMDbwlduUADEmVsu"
+  client_secret: "8FtGostlBmXgr2TVrFlWgFcIilO9MaAJ"
+  customer_id: "2fc10804142811ed8acd9a1370d6a925"
+  base_url: "https://internal-apigw.central.arubanetworks.com"
+vorawut_sg_old:
+  username: "vorawut.k@arubaseath.com"
+  password: "xxx"
+  client_id: "CAAj9OBgFOePZnZp89QGGhsQYKYLF77i"
+  client_secret: "aR7QJjWaY82jPWZmYnaFZ1V1W15ENVBl"
+  customer_id: "5002970"
+  base_url: "https://internal-apigw.central.arubanetworks.com"
+singapore_seath:
+  username: "vorawut.k@arubaseath.com"
+  password: "xxx"
+  client_id: "yvuigmJC0YL4u0HbrxT1j78jn4Iu6JsX"
+  client_secret: "KMidigBPjqLI67HZxNSr1RvOwCikx2sA"
+  customer_id: "24e2d1c9cf4748f0bbbc845a2d636726"
+  base_url: "https://apigw-apaceast.central.arubanetworks.com"
+SCB-POC:
+  username: "vorawut.k@arubaseath.com"
+  password: "xxxx"
+  client_id: "BVyZnjDBjd2nYJ4E7PfBNJXEkMUqbbBR"
+  client_secret: "8BxPKJ5Um5kbygK493OhYPw1ATvWdDoW"
+  customer_id: "b0d7aa92060c11efb9a1ea7d750254fb"
+  base_url: "https://apigw-apaceast.central.arubanetworks.com"
+token_store:
+  type: "local"
+  path: "temp"
+ssl_verify: true
+
+vorawut_sg_cnx:
+  client_id: "3db16c92-f977-4362-b67b-764dde7d5d60"
+  client_secret: "495d127847054a64b1676fbc9efd9bac"
+  base_url: "internal.api.central.arubanetworks.com"

@@ -1,0 +1,7 @@
+new_central:
+  base_url: "internal.api.central.arubanetworks.com"
+  client_id: "1f68069c-94ba-45d7-973d-29f6a4cba2a9"
+  client_secret: "fd5d0125560e45fb8440961540d459cc"
+glp:
+  client_id: "1f68069c-94ba-45d7-973d-29f6a4cba2a9"
+  client_secret: "fd5d0125560e45fb8440961540d459cc"

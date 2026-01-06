@@ -1,0 +1,6 @@
+*.json
+.env
+venv_2026/
+venv_MAC16
+__pycache__
+*.code-workspace
